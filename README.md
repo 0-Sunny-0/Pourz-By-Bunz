@@ -1,2 +1,5 @@
-# Pourz-By-Bunz
-A gallery of art made by a girl gone mad.
+# Bunzie's Gallery
+
+## Description
+
+A gallery of art made by a girl gone mad. 
